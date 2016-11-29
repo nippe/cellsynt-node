@@ -1,0 +1,12 @@
+{
+  "name": "cellsynt-node",
+  "version": "0.0.1",
+  "description": "Module wrapping cellsynt.com API",
+  "main": "lib/index.js",
+  "repository": {
+    "url": "git@github.com:nippe/cellsynt-node.git",
+    "type": "git"
+  },
+  "author": "Niklas Nihlén <niklas.nihlen@gmail.com>",
+  "license": "MIT"
+}
